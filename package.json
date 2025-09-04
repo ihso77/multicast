@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "discord.js": "^13.13.1",
+        "eris": "^0.17.1",
+        "express": "^4.19.2"
+    },
+    "name": "brod-tk",
+    "version": "1.0.0",
+    "main": "index (1).js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
